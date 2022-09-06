@@ -6,7 +6,10 @@ I'm an engineer and developer with 4 years of experience - my primary interests 
 *   🌍  I'm based in Burlington, VT and seeking work in the Greater Boston area.
 *   ✉️  You can contact me at [joshbakervt@gmail.com](mailto:joshbakervt@gmail.com)
 *   🚀  I'm currently working on [What's the Data](http://whatsthedata.com/)
-*   🧠  I'm learning IaC (Terraform), Kafka, and AWS's many tools### Skills<p align="left">
+*   🧠  I'm learning IaC (Terraform), Kafka, and AWS's many tools
+
+### Skills
+<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>

@@ -1,4 +1,4 @@
-Hi 👋 My name is Joshua Baker
+Hi, I'm Josh
 =============================
 
 I'm an engineer and developer with 4 years of experience - my primary interests are in cloud computing, security, and backend development. I love designing complex systems that make our interaction with the internet more powerful, enjoyable and easy. On an average day, you might find me working with AWS, designing a website or API, or developing security tools for the University of Vermont's InfoSec Office.

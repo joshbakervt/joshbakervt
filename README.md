@@ -36,5 +36,3 @@ I'm an engineer and developer with 4 years of experience - my primary interests 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/joshbakervt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joshbakervt&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/joshbakervt"><img src="https://activity-graph.herokuapp.com/graph?username=joshbakervt&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

@@ -5,7 +5,7 @@ I'm an engineer and developer with 4 years of experience - my primary interests 
 
 *   🌍  I'm based in Burlington, VT and seeking work in the Greater Boston area.
 *   ✉️  You can contact me at [joshbakervt@gmail.com](mailto:joshbakervt@gmail.com)
-*   🚀  I'm currently working on [What's the Data](http://whatsthedata.com/), a medical resource website, and [Pizza Time] (https://github.com/joshbakervt/pizza-time), a POS system that is challenging my Golang programming skills
+*   🚀  I'm currently working on [What's the Data](http://whatsthedata.com/), a medical resource website, and [Pizza Time](https://github.com/joshbakervt/pizza-time/), a POS system that is challenging my Golang programming skills
 *   🧠  I'm learning IaC (Terraform), Kafka, and AWS's many tools
 
 ### Skills

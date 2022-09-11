@@ -5,8 +5,11 @@ I'm an engineer with 4 years of dev experience - my primary interests are in clo
 
 *   🌍  I'm based in Burlington, VT and seeking work in the Greater Boston area.
 *   ✉️  You can contact me at [joshbakervt@gmail.com](mailto:joshbakervt@gmail.com)
-*   🚀  I'm currently working on [What's the Data](http://whatsthedata.com/), a medical resource website
-*   🧠  I'm learning IaC (Terraform), Golang, and AWS's many tools
+
+### Cool Projects I've Developed
+* [What's the Data (Indepdendent) ](http://whatsthedata.com/) - This is an in-progress freelance website I'm developing for a neurosurgeon with the intent of making PubMed publications accessible to neuroscience students. The site uses multiple Lambda functions, DynamoDB and a custom API gateway for on-demand data processing and retrieval.
+* [205 Days Later (Contributor)](https://gitlab.uvm.edu/jjbaker/cs-205-group-10-final-project) - An immersive 2.5D Call of Duty Zombies style video game built using Python Arcade. I developed a spawning algorithm using an LRU-cache for coordinates to evenly distribute spawn location.
+* [Spectrum Analyzer (Indepdenent)](https://www.youtube.com/watch?v=LnRLYul1AE0&t=1s) - A GUI-based frequency analysis software tool running on Raspberry Pi to show frequency presence in audio files. This is a very common tool used in music production for mixing and mastering.
 
 ### Skills
 <p align="left">

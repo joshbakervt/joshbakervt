@@ -1,7 +1,7 @@
 Hi, I'm Josh
 =============================
 
-I'm an engineer with 4 years of dev experience - my primary interests are in cloud computing, security, and backend development. I love designing complex systems that make our interaction with the internet more powerful, enjoyable and easy. On an average day, you might find me working with AWS, designing a website or API, or developing security tools for the University of Vermont's InfoSec Office.
+I'm an engineer with 4 years of dev experience - my primary interests are in cloud computing, security, and backend development. I love designing complex systems that make our interaction with the internet more powerful, enjoyable and easy. On an average day, you might find me using AWS, designing something to target my passion for music production, or developing security tools for the University of Vermont's InfoSec Office.
 
 *   🌍  I'm based in Burlington, VT and seeking work in the Greater Boston area.
 *   ✉️  You can contact me at [joshbakervt@gmail.com](mailto:joshbakervt@gmail.com)

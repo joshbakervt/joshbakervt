@@ -3,9 +3,6 @@ Hi, I'm Josh
 
 I'm an engineer with 4 years of dev experience - I'm passionate about innovating how we rely on technology and I use creativity as the driving force in all of my work. Currently writing code at the University of Vermont under the titles of Security Operations Specialist and Senior of a B.S. in Computer Science. In my free time that title changes to Freelance Website Developer, AWS Engineer, or Musician.
 
-*   🌍  I'm based in Burlington, VT and seeking work in the Greater Boston area.
-*   ✉️  You can contact me at [joshbakervt@gmail.com](mailto:joshbakervt@gmail.com)
-
 ### Cool Projects I've Developed
 * [What's the Data (In Progress)](http://whatsthedata.com/) - This is a freelance website I'm developing for a neurosurgeon with the intent of making PubMed publications accessible to neuroscience students. The site uses AWS Lambda, DynamoDB and a custom API gateway for on-demand data processing and retrieval.
 * [205 Days Later (Contributor)](https://gitlab.uvm.edu/jjbaker/cs-205-group-10-final-project) - An immersive 2.5D Call of Duty Zombies style video game built using Python Arcade. I developed a spawning algorithm using an LRU-cache for coordinates to evenly distribute spawn location.

@@ -1,7 +1,7 @@
 Hi, I'm Josh
 =============================
 
-I'm an engineer with 4 years of dev experience - I'm passionate about innovating how we rely on technology and I use creativity as the driving force in all of my work. Currently writing code at the University of Vermont under the titles of Security Operations Specialist and Senior of a B.S. in Computer Science. In my free time that title changes to Freelance Website Developer, AWS Engineer, or Musician.
+Burlington, VT based engineer. My drive to program comes from the ability to use creativity and problem-solving as a means to develop impactful technology. I'm passionate about building tools that improve our interaction with the world, and I'm fascinated with the reliance that we build on these tools that are constantly adapting. Currently focusing on interesting projects in full-stack, audio programming and cloud while I complete my B.S. CS at The University of Vermont.
 
 ### Cool Projects I've Developed
 * [What's the Data (In Progress)](https://github.com/joshbakervt/whats-the-data) - This is a freelance website I'm developing for a neurosurgeon with the intent of making PubMed publications accessible to neuroscience students. The site uses AWS Lambda, DynamoDB and a custom API gateway for on-demand data processing and retrieval.

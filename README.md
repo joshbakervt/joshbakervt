@@ -6,7 +6,7 @@ Burlington, VT based engineer. My drive to program comes from the ability to use
 ### Cool Stuff
 * [What's the Data (In Progress)](https://github.com/joshbakervt/whats-the-data) - This is a freelance website I'm developing for a neurosurgeon with the intent of making PubMed publications accessible to neuroscience students. The site uses AWS Lambda, DynamoDB and a custom API gateway for on-demand data processing and retrieval.
 * [205 Days Later (Contributor)](https://gitlab.uvm.edu/jjbaker/cs-205-group-10-final-project) - An immersive 2.5D Call of Duty Zombies style video game built using Python Arcade. I developed a spawning algorithm using an LRU-cache for coordinates to evenly distribute spawn location.
-* [Spectrum Analyzer](https://www.youtube.com/watch?v=LnRLYul1AE0&t=1s) - A GUI-based frequency analysis software tool running on Raspberry Pi to show frequency presence in audio files. This is a very common tool used in music production for mixing and mastering.
+* [Spectrum Analyzer](https://www.youtube.com/watch?v=LnRLYul1AE0&t=1s) - A GUI-based spectrum analysis software tool running on Raspberry Pi to display frequency presence in audio. This is a very common tool used in music production for mixing and mastering.
 
 ### Skills
 <p align="left">

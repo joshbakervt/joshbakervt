@@ -1,7 +1,7 @@
 Hi, I'm Josh
 =============================
 
-Burlington, VT based engineer. My drive to program comes from the ability to use creativity and problem-solving as a means to develop impactful technology. I'm passionate about building tools that improve our interaction with the world, and I'm fascinated with the reliance that we build on these tools that are constantly adapting. Currently focusing on interesting projects in full-stack, audio programming and cloud while I complete my B.S. CS at The University of Vermont.
+Burlington, VT based engineer. My drive to program comes from the ability to use creativity and problem-solving as a means to develop impactful technology. I'm passionate about building tools that improve our interaction with the world, and I'm fascinated with the reliance that we build on these tools that are constantly adapting. Currently working on projects in full-stack development and audio programming I complete my B.S. CS at The University of Vermont.
 
 ### Cool Projects I've Developed
 * [What's the Data (In Progress)](https://github.com/joshbakervt/whats-the-data) - This is a freelance website I'm developing for a neurosurgeon with the intent of making PubMed publications accessible to neuroscience students. The site uses AWS Lambda, DynamoDB and a custom API gateway for on-demand data processing and retrieval.

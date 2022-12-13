@@ -1,8 +1,7 @@
 Hi, I'm Josh
 =============================
 
-Burlington, VT based engineer. My drive to program comes from the ability to use creativity and problem-solving as a means to develop impactful technology. I'm passionate about building tools that improve our interaction with the world, and I'm fascinated with the reliance that we build on these tools that are constantly adapting. Currently working on projects in full-stack development and audio programming while I complete my B.S. CS at The University of Vermont.
-
+Incoming Software Engineer at Audialab, Inc based out of Burlington, VT. 
 ### Cool Stuff
 * [What's the Data (In Progress)](https://jjbaker.w3.uvm.edu/web/) - This is a freelance website I'm developing for a neurosurgeon with the intent of making PubMed publications accessible to neuroscience students. The site uses AWS Lambda, DynamoDB and a custom API gateway for on-demand data processing and retrieval.
 * [205 Days Later (Contributor)](https://gitlab.uvm.edu/jjbaker/cs-205-group-10-final-project) - An immersive 2.5D Call of Duty Zombies style video game built using Python Arcade. I developed a spawning algorithm using an LRU-cache for coordinates to evenly distribute spawn location.

@@ -1,7 +1,7 @@
 Hi, I'm Josh
 =============================
 
-Software Engineer at Audialab, Inc based out of Burlington, VT. 
+
 ### Cool Stuff
 * [What's the Data (In Progress)](https://jjbaker.w3.uvm.edu/web/) - This is a freelance website I'm developing for a neurosurgeon with the intent of making PubMed publications accessible to neuroscience students. The site uses AWS Lambda, DynamoDB and a custom API gateway for on-demand data processing and retrieval.
 * [205 Days Later (Contributor)](https://gitlab.uvm.edu/jjbaker/cs-205-group-10-final-project) - An immersive 2.5D Call of Duty Zombies style video game built using Python Arcade. I developed a spawning algorithm using an LRU-cache for coordinates to evenly distribute spawn location.

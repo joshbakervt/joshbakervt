@@ -1,7 +1,7 @@
 Hi, I'm Josh
 =============================
 
-Software Engineer from Burlington, VT currently working at <a href="https://audialab.com/">Audialab</a>
+Software Engineer from Burlington, VT currently working at <a href="https://audialab.com/" target="_blank">Audialab</a>
 
 ### Cool Stuff
 * [What's the Data (In Progress)](https://jjbaker.w3.uvm.edu/web/) - This is a freelance website I'm developing for a neurosurgeon with the intent of making PubMed publications accessible to neuroscience students. The site uses AWS Lambda, DynamoDB and a custom API gateway for on-demand data processing and retrieval.
